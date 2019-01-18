@@ -1,0 +1,88 @@
+{
+  "questions": [{
+      "key": "family",
+      "selection": "single",
+      "type": "fun_fact",
+      "title": "Do you want children?",
+      "media": "some url path",
+      "options": [{
+          "name": "Have Kids"
+        },
+        {
+          "name": "Not Sure"
+        }
+      ]
+    },
+    {
+      "key": "religion",
+      "selection": "multiple",
+      "type": "fun_fact",
+      "title": "What is your faith?",
+      "media": "some url path",
+      "options": [{
+          "name": "Agnostic"
+        },
+        {
+          "name": "Not Sure"
+        }
+      ]
+    },
+    {
+      "key": "bio",
+      "type": "free_form",
+      "limit": 500,
+      "title": "Add a bio",
+      "placeholder": "How do you spend your days? What do you get up to on weekends? Netflix &amp; chill or out on the town?",
+      "media": "some url path"
+    },
+    {
+      "key": "sexual",
+      "selection": "single",
+      "type": "identity",
+      "title": "What is your sexual identity?",
+      "media": "some url path",
+      "options": [{
+          "name": "Lesbian",
+          "definition": "A woman who is emotionally, romantically or sexually attracted to other women."
+        },
+        {
+          "name": "Bicurious",
+          "definition": "A person emotionally, romantically or sexually attracted to more than one sex, gender or gender identity though not necessarily simultaneously, in the same way or to the same degree."
+        }
+      ],
+      "info": {
+        "link_text": "What does this mean?",
+        "title": "What is Sexual Identity?"
+      }
+    },
+    {
+      "key": "expression",
+      "type": "identity",
+      "selection": "range",
+      "range_config": {
+        "min": 0,
+        "max": 500
+      },
+      "title": "How do you express yourself?",
+      "description": "Drag the thumbs where you fall.",
+      "media": "some url path",
+      "info": {
+        "link_text": "What does this mean?",
+        "title": "What is expression?"
+      },
+      "options": [{
+          "name": "Butch",
+          "definition": "..."
+        },
+        {
+          "name": "Andogynous",
+          "definition": "..."
+        },
+        {
+          "name": "Femme",
+          "definition": "..."
+        }
+      ]
+    }
+  ]
+}
