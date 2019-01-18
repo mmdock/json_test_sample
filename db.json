@@ -61,7 +61,8 @@
       "selection": "range",
       "range_config": {
         "min": 0,
-        "max": 500
+        "max": 500,
+        "thumbs": 2 
       },
       "title": "How do you express yourself?",
       "description": "Drag the thumbs where you fall.",
