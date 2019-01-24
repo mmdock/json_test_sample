@@ -1,15 +1,21 @@
 {
   "questions": [{
-      "key": "family",
+      "key": "drink",
       "selection": "single",
       "type": "fun_fact",
-      "title": "Do you want children?",
-      "media": "some url path",
+      "title": "Do you drink?",
+      "media": "https://weareher.com/wp-content/themes/weareher/assets/new_brand/img/logo.png",
       "options": [{
-          "name": "Have Kids"
+          "name": "No"
         },
         {
-          "name": "Not Sure"
+          "name": "Socially"
+        },
+        {
+          "name": "Regularly"
+        },
+        {
+          "name": "Prefer not to say"
         }
       ]
     },
