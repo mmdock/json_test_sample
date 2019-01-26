@@ -20,16 +20,28 @@
       ]
     },
     {
-      "key": "religion",
+      "key": "looking",
       "selection": "multiple",
       "type": "fun_fact",
-      "title": "What is your faith?",
-      "media": "some url path",
+      "title": "What are you looking for?",
+      "media": "https://weareher.com/wp-content/themes/weareher/assets/new_brand/img/logo.png",
       "options": [{
-          "name": "Agnostic"
+          "name": "Monogamous Relationship"
         },
         {
-          "name": "Not Sure"
+          "name": "Not Sure Yet"
+        },
+        {
+          "name": "New Friends"
+        },
+        {
+          "name": "Polyamorous relationship"
+        },
+        {
+          "name": "Something Casual"
+        },
+        {
+          "name": "Prefer not to say"
         }
       ]
     },
