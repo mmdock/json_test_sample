@@ -46,6 +46,224 @@
       ]
     },
     {
+      "key": "kids",
+      "selection": "single",
+      "type": "fun_fact",
+      "title": "Do you have or want kids?",
+      "media": "https://weareher.com/wp-content/themes/weareher/assets/new_brand/img/logo.png",
+      "options": [{
+          "name": "Have Kids"
+        },
+        {
+          "name": "Want Someday"
+        },
+        {
+          "name": "Don't Want"
+        },
+        {
+          "name": "Not Sure"
+        },
+        {
+          "name": "Prefer Not To Say"
+        }
+      ]
+    },
+    {
+      "key": "cigarrete",
+      "selection": "single",
+      "type": "fun_fact",
+      "title": "Do you smoke cigarettes?",
+      "media": "https://weareher.com/wp-content/themes/weareher/assets/new_brand/img/logo.png",
+      "options": [{
+          "name": "No"
+        },
+        {
+          "name": "Socially"
+        },
+        {
+          "name": "Regularly"
+        },
+        {
+          "name": "Prefer Not To Say"
+        }
+      ]
+    },
+    {
+      "key": "weed",
+      "selection": "single",
+      "type": "fun_fact",
+      "title": "Do you smoke cannabis?",
+      "media": "https://weareher.com/wp-content/themes/weareher/assets/new_brand/img/logo.png",
+      "options": [{
+          "name": "No"
+        },
+        {
+          "name": "Socially"
+        },
+        {
+          "name": "Regularly"
+        },
+        {
+          "name": "Prefer Not To Say"
+        }
+      ]
+    },
+    {
+      "key": "sign",
+      "selection": "single",
+      "type": "fun_fact",
+      "title": "What is your star sign?",
+      "media": "https://weareher.com/wp-content/themes/weareher/assets/new_brand/img/logo.png",
+      "options": [{
+          "name": "Capricorn"
+        },
+        {
+          "name": "Aquarius"
+        },
+        {
+          "name": "Pisces"
+        },
+        {
+          "name": "Aries"
+        },
+        {
+          "name": "Taurus"
+        },
+        {
+          "name": "Gemini"
+        },
+        {
+          "name": "Cancer"
+        },
+        {
+          "name": "Leo"
+        },
+        {
+          "name": "Virgo"
+        },
+        {
+          "name": "Libra"
+        },
+        {
+          "name": "Scorpio"
+        },
+        {
+          "name": "Saggitarius"
+        },
+        {
+          "name": "Prefer Not To Say"
+        } 
+      ]
+    },
+    {
+      "key": "religion",
+      "selection": "single",
+      "type": "fun_fact",
+      "title": "What is your religion?",
+      "media": "https://weareher.com/wp-content/themes/weareher/assets/new_brand/img/logo.png",
+      "options": [{
+          "name": "Agnostic"
+        },
+        {
+          "name": "Atheist"
+        },
+        {
+          "name": "Buddhist"
+        },
+        {
+          "name": "Christian"
+        },
+        {
+          "name": "Hindu"
+        },
+        {
+          "name": "Jewish"
+        },
+        {
+          "name": "Mormon"
+        },
+        {
+          "name": "Muslim"
+        },
+        {
+          "name": "Spiritual"
+        },
+        {
+          "name": "Other"
+        },
+        {
+          "name": "Not Religious"
+        },
+        {
+          "name": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "key": "diet",
+      "selection": "single",
+      "type": "fun_fact",
+      "title": "What is your diet like?",
+      "media": "https://weareher.com/wp-content/themes/weareher/assets/new_brand/img/logo.png",
+      "options": [{
+          "name": "Vegetarian"
+        },
+        {
+          "name": "Vegan"
+        },
+        {
+          "name": "Pescatarian"
+        },
+        {
+          "name": "Gluten Free"
+        },
+        {
+          "name": "Kosher"
+        },
+        {
+          "name": "Anything"
+        },
+        {
+          "name": "Tacos ALL DAY"
+        },
+        {
+          "name": "Vagitarian"
+        },
+        {
+          "name": "Other"
+        },
+        {
+          "name": "Prefer not to say"
+        }
+      ]
+    },
+     {
+      "key": "politics",
+      "selection": "single",
+      "type": "fun_fact",
+      "title": "What are your political views?",
+      "media": "https://weareher.com/wp-content/themes/weareher/assets/new_brand/img/logo.png",
+      "options": [{
+          "name": "Liberal"
+        },
+        {
+          "name": "Conservative"
+        },
+        {
+          "name": "Moderate"
+        },
+        {
+          "name": "Other"
+        },
+        {
+          "name": "Not Political"
+        },
+        {
+          "name": "Prefer not to say"
+        }
+      ]
+    },
+    {
       "key": "bio",
       "type": "free_form",
       "limit": 500,
