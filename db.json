@@ -268,7 +268,7 @@
       "type": "free_form",
       "limit": 500,
       "title": "Add a bio",
-      "placeholder": "How do you spend your days? What do you get up to on weekends? Netflix &amp; chill or out on the town?",
+      "placeholder": "How do you spend your days? What do you get up to on weekends? Netflix &amp; chill or out on the town?"
     },
     {
       "key": "sexual",
