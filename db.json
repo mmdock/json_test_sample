@@ -317,7 +317,6 @@
       "selection": "single",
       "type": "identity",
       "title": "What is your sexual identity?",
-      "media": "some url path",
       "options": [{
           "name": "Lesbian",
           "definition": "A woman who is emotionally, romantically or sexually attracted to other women."
@@ -343,7 +342,6 @@
       },
       "title": "How do you express yourself?",
       "description": "Drag the thumbs where you fall.",
-      "media": "some url path",
       "info": {
         "link_text": "What does this mean?",
         "title": "What is expression?"
