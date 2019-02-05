@@ -314,7 +314,7 @@
     },
     {
       "key": "sexual",
-      "selection": "single",
+      "selection": "multiple",
       "type": "identity",
       "title": "What is your sexual identity?",
       "options": [{
