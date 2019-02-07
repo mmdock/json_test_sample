@@ -366,12 +366,12 @@
       	"type": "custom",
 	"components": [
 		{
-			values: ["Vlad", "Nate", "Morgan", "Rok"],
-			width: 50
+			"values": ["Vlad", "Nate", "Morgan", "Rok"],
+			"width": 50
 		},
 		{
-			values: ["Api", "iOS", "Develops", "Android"],
-			width: 40
+			"values": ["Api", "iOS", "Develops", "Android"],
+			"width": 40
 		}]
       },
       "title": "Whom does what??"
