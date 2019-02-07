@@ -360,6 +360,23 @@
       "title": "What is your height?"
     },
     {
+      "key": "random",
+      "type": "picker",
+      "picker_config": {
+      	"type": "custom",
+	"components": [
+		{
+			values: ["Vlad", "Nate", "Morgan", "Rok"],
+			width: 50
+		},
+		{
+			values: ["Api", "iOS", "Develops", "Android"],
+			width: 40
+		}]
+      },
+      "title": "Whom does what??"
+    },
+    {
       "key": "expression",
       "type": "identity",
       "selection": "range",
