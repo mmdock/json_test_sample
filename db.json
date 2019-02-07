@@ -367,11 +367,11 @@
 	"components": [
 		{
 			"values": ["Vlad", "Nate", "Morgan", "Rok"],
-			"width": 50
+			"width": 100
 		},
 		{
 			"values": ["Api", "iOS", "Develops", "Android"],
-			"width": 40
+			"width": 110
 		}]
       },
       "title": "Whom does what??"
