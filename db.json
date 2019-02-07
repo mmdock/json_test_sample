@@ -352,6 +352,14 @@
       }
     },
     {
+      "key": "height",
+      "type": "picker",
+      "picker_config": {
+      	"type": "height"
+      },
+      "title": "What is your height?"
+    },
+    {
       "key": "expression",
       "type": "identity",
       "selection": "range",
