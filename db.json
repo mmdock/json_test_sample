@@ -348,7 +348,7 @@
 	{
 	   "name": "Prefer to self describe",
 	   "char_limit": 50
-	},
+	}
       ],
       "info": {
         "link_text": "What does this mean?",
