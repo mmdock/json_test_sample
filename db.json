@@ -344,7 +344,11 @@
         {
           "name": "Fluid",
           "definition": "A person emotionally, romantically or sexually attracted to more than one sex, gender or gender identity though not necessarily simultaneously, in the same way or to the same degree."
-        }
+        },
+	{
+	   "name": "Prefer to self describe",
+	   "char_limit": 50
+	},
       ],
       "info": {
         "link_text": "What does this mean?",
